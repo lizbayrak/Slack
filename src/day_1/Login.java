@@ -8,5 +8,10 @@ public class Login {
         
         //All users should be able to log in successfully
         
+        
+        
+        
+        //This line was written from GitHub
+        
     }
 }
