@@ -11,5 +11,11 @@ public class CreateChannel {
             System.out.println("equal");
         }
 
+        String s= "a"; //changed from GitHub
+            if(s.contains("a")){
+                System.out.println("contains");
+        }else{
+            System.out.println("not");
+        }
     }
 }
