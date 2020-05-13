@@ -7,6 +7,15 @@ public class Login {
         System.out.println("Test login function");
         
         //All users should be able to log in successfully
+
         //This line is written from IntelliJ
+
+        
+        
+        
+        
+        //This line was written from GitHub
+        
+
     }
 }
